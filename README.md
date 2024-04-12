@@ -24,7 +24,7 @@ Passionate **Fullstack Developer** experienced in **PHP, HTML5, CSS3, Javascript
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![GSAP Badge](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
-**GitHub Stats**
+#### GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnjezonajias&show_icons=true&bg_color=111111&title_color=ffffff&icon_color=555555&text_color=aaaaaa" />
@@ -32,6 +32,10 @@ Passionate **Fullstack Developer** experienced in **PHP, HTML5, CSS3, Javascript
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnjezonajias&layout=compact&langs_count=8&card_width=320&bg_color=111111&title_color=ffffff&text_color=aaaaaa" />
 </a>
+
+#### GitHub Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnjezonajias&repo=webdevelopment-setup&show_owner=true&bg_color=111111&title_color=ffffff&text_color=aaaaaa)](https://github.com/johnjezonajias/webdevelopment-setup)
 
 ## Get in Touch 📬
 
